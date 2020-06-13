@@ -1,0 +1,15 @@
+{
+  "name": "youtube-api-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "api", "wrapper", "youtube-wrapper"
+  ],
+  "author": "codejabo",
+  "license": "ISC",
+  "repository": "https://github.com/jabo-bernardo/youtube-api-wrapper"
+}
